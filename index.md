@@ -110,5 +110,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-[Link to another page](# Header 1)
+[Link to another page](#Header1)
 ```
