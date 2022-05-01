@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# FILM CRITICISM
+# MOVIE REVIEWS
 * [Alien vs. Predator](cw-02.html)
 * [Arrival](cw-03.html)
 * [Joker](cw-04.html)
