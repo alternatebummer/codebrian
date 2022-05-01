@@ -2,7 +2,7 @@
 layout: default
 ---
 # MOVIE REVIEWS
-* [Alien vs. Predator](cw-02.html)
+* [Boogie Nights](boogie-nights.html)
 * [Arrival](cw-03.html)
 * [Joker](cw-04.html)
 * [The Power of the Dog](cw-05.html)
