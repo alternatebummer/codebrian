@@ -9,9 +9,9 @@ We're so boxed up as a society, so prone to take and not to give. We seem to be 
 ### 10 INT. DIRK'S ROOM - NIGHT - THAT MOMENT
 
 >Dirk enters his room and begins to remove his clothes. He turns the volume low on his stereo. He stands in front of his mirror, does a few flexes, some dance moves, some karate moves, etc. CAMERA DOES A SLOW 360 PAN AROUND THE ROOM. Posters on the walls of Travolta, Pacino, a 1976 Corvette, Bruce Lee, Hawaii, a Penthouse centerfold, Luke Skywalker, etc. CAMERA LANDS BACK ON DIRK.
->                                 DIRK
->
->                             That's right.
+                                 DIRK
+
+                             That's right.
 
 Dirk is a worthy protagonist for us because he struggles with this in the extreme, and because he's very inward-focused. He often talks to himself in the mirror, which is useful for us. He has to keep that connection with himself open and he knows it. What Dirk is capable of is something somewhat beyond porn. As far as we can tell, people dissolve into what Dirk is doing. He shares with them the connection he's established with himself and they go blank, as if vacant. They have, in a sense, become perfect mirrors. That's two degrees of separation that are eliminated through this cinematic expression, if you're keeping track. And, by chance, if you disappear into one of these sequences, I would argue three.
 
