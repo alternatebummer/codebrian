@@ -6,7 +6,7 @@ You might describe porn as the feeling of accomplishing something you weren't st
 
 We're so boxed up as a society, so prone to take and not to give. We seem to be nurtured this way. Mine, mine, mine. Stay back! Don't hurt me or I'll hurt YOU. Much of the conflict in this movie occurs when characters put up barriers and refuse to give during an exchange. These conflicts seem to corrode the moral fabric of their world.
 
-![Breaking](https://alternatebummer.github.io/codebrian/dirkmirror.png)
+![Breaking](https://github.com/alternatebummer/codebrian/blob/master/drikmirror.png?raw=true)
 
 Dirk is a worthy protagonist for us because he struggles with this in the extreme, and because he's very inward-focused. He often talks to himself in the mirror, which is useful for us. He has to keep that connection with himself open and he knows it. What Dirk is capable of is something somewhat beyond porn. As far as we can tell, people dissolve into what Dirk is doing. He shares with them the connection he's established with himself and they go blank, as if vacant. They have, in a sense, become perfect mirrors. That's two degrees of separation that are eliminated through this cinematic expression, if you're keeping track. And, by chance, if you disappear into one of these sequences, I would argue three.
 
