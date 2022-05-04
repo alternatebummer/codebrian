@@ -6,8 +6,8 @@ layout: default
 The Man Who Laughs is a freakish man drama, or, how else could I say it? A romance thriller. A gothic horror. It has a bit of all these things. Mostly, this movie's project is the development of a Shakespearean trope that's pretty well summed up by Antonio in Twelfth Night:
 
 >In nature there's no blemish but the mind;
-None can be call'd deform'd but the unkind:
-Virtue is beauty, but the beauteous evil
+>None can be call'd deform'd but the unkind:
+>Virtue is beauty, but the beauteous evil
 
 These lines, I think, carry a lot of weight for us here. It's an adaptation of a Victor Hugo novel which sort of plays in the shadow of Mary Shelley's Frankenstein and precedes Gaston Leroux's Phantom of the Opera by a few decades. Then, of course, this screen adaptation comes out during Hollywood's golden age, immediately preceding movies like The Iron Mask (1930), Frankenstein (1931), and Dr. Jekyll and Mr. Hyde (1931). In 1939, Hugo's The Hunchback of Notre Dame would be adapted for the screen a second time (first in 1923).
 
